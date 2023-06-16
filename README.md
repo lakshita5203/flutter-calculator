@@ -3,4 +3,4 @@ Both modes calculator using flutter.
 
 # Demo preview
 
-(https://github.com/lakshita5203/flutter-calculator/assets/78801739/bcf1d4b7-6cf4-4c8e-be0a-53785aabaef5)
+![device-2023-06-16-225306 (online-video-cutter com)](https://github.com/lakshita5203/flutter-calculator/assets/78801739/a9a731fb-ac75-4c49-a285-c08e33d09db8)
